@@ -1,0 +1,9 @@
+{
+    "name": "nodejs-socket-chat-test",
+    "version": "0.0.1",
+    "description": "my first chat app, build with node.js and socket.io",
+    "dependencies": {
+        "express": "^4.18.1",
+        "socket.io": "^4.5.1"
+    }
+}
